@@ -1,0 +1,227 @@
+﻿The Project Gutenberg eBook of La Ilíada
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: La Ilíada
+
+
+Author: Homer
+
+Illustrator: Alfred John Church
+        John Flaxman
+
+Translator: Luis Segalá y Estalella
+
+Release date: August 7, 2018 [eBook #57654]
+
+Language: Spanish
+
+Credits: Produced by Carlos Colon, Ramon Pajares Box, University
+        of California and the Online Distributed Proofreading Team
+        at http://www.pgdp.net (This file was produced from images
+        generously made available by The Internet Archive/American
+        Libraries.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK LA ILÍADA ***
+
+
+
+Produced by Carlos Colon, Ramon Pajares Box, University
+of California and the Online Distributed Proofreading Team
+at http://www.pgdp.net (This file was produced from images
+generously made available by The Internet Archive/American
+Libraries.)
+
+
+
+
+
+
+NOTA DE TRANSCRIPCIÓN
+
+  * En el texto, las cursivas se muestran entre _subrayados_ y las
+    versalitas se han convertido a MAYÚSCULAS.
+
+  * Los errores de imprenta han sido corregidos sin avisar.
+
+  * Se ha respetado la ortografía del original —que difiere ligeramente
+    de la actual—, normalizándola a la grafía de mayor frecuencia.
+
+  * Se han añadido tildes a las mayúsculas que las necesitan.
+
+  * Las notas a pie de página se han colocado al final del prólogo «Al
+    Lector», único capítulo del libro que las usa.
+
+  * Se han hecho los siguientes cambios:
+    Canto XIII, 685, p. 207: «Fidas» → «Fidante», de acuerdo con la
+      corrección anunciada en el Índice de nombres propios, voz Fidante.
+    Canto XVI, 101, p. 244: «hombro derecho» → «hombro izquierdo»,
+      según el original griego y otras traducciones más recientes (el
+      escudo se llevaba normalmente a la izquierda).
+    Canto XVII, 288, p. 270: «Hipóloco» → «Hipótoo», de acuerdo con la
+      corrección anunciada en el Índice de nombres propios, voz Hipótoo.
+    Índice de nombres propios, p. 436, voz _Príamo_: «Príamo» → «Júpiter»,
+      para respetar el sentido del texto referenciado (IV, 46 y 47).
+
+  * Algunas ilustraciones se han desplazado ligeramente, para evitar que
+    interrumpieran un párrafo.
+
+
+
+
+LA ILÍADA
+
+
+
+
+[Ilustración]
+
+
+
+
+  HOMERO
+
+  LA ILÍADA
+
+  VERSIÓN DIRECTA Y LITERAL DEL GRIEGO
+
+  POR
+
+  LUIS SEGALÁ Y ESTALELLA
+
+  DOCTOR EN FILOSOFÍA Y LETRAS Y EN DERECHO, CATEDRÁTICO NUMERARIO
+  DE LENGUA Y LITERATURA GRIEGAS EN LA UNIVERSIDAD DE BARCELONA, É
+  INDIVIDUO CORRESPONDIENTE DE LA REAL ACADEMIA DE BUENAS LETRAS DE
+  LA MISMA CAPITAL
+
+  ILUSTRACIONES DE FLAXMAN Y DEL PROFESOR A. J. CHURCH
+
+
+  [Ilustración]
+
+
+  BARCELONA
+  MONTANER Y SIMÓN, EDITORES
+  CALLE DE ARAGÓN, NÚM. 255
+  1908
+
+
+
+
+  ES PROPIEDAD
+
+
+
+
+AL LECTOR
+
+
+No sin temor pongo en tus manos esta versión en prosa del inmortal
+poema homérico compuesto hace _treinta siglos_[1] y no superado aún por
+otro alguno; epopeya sin par y cuadro fiel de los orígenes históricos
+de aquella cultura helénica que tanto influyó en la romana, y más
+tarde, ya directamente, ya por medio de esta última, en la de casi
+todos los pueblos civilizados.
+
+Sabido es que la _Ilíada_ tiene por asunto un episodio de la guerra de
+Troya, ocurrido en el noveno año de la misma[2]; y que se atribuye á
+Homero, el padre de la poesía, el célebre aedo que recorría la Grecia
+cantando al son de la cítara sus propias composiciones. No es posible
+hablar en estas pocas líneas de la llamada _cuestión homérica_[3],
+ni resumir lo que han dicho los críticos sobre la existencia[4] y la
+patria de Homero[5], las obras que compuso[6] y el estado en que han
+llegado hasta nosotros[7]. Por tanto, sólo manifestaré las razones que
+me impulsaron á hacer esta versión literal del más famoso de sus poemas.
+
+De la _Ilíada_ se han publicado en España tres traducciones: las de D.
+Ignacio García Malo, D. José Gómez Hermosilla[8] y D. Conrado Roure[9];
+pues la notabilísima que preparaba D. Juan Montserrat y Archs no llegó
+á ver la luz pública[10]. Las dos primeras son dignas de elogio por
+el conocimiento que de la obra original revelan en sus autores, y
+la de Hermosilla también por su valor literario, mucho mayor de lo
+que generalmente se cree, como ha demostrado mi insigne maestro D.
+Marcelino Menéndez y Pelayo; pero ambas están en verso y no pueden
+ser tan fieles, que no amplifiquen, mutilen ó alteren el texto para
+acomodarlo á la forma métrica. De aquí que no satisfagan completamente
+á quien, sin estar impuesto en la lengua griega, necesite conocer la
+_Ilíada_ en sus menores detalles, le convenga alegar textualmente
+algunos de sus versos ó quiera verificar las citas que se hagan de
+dicho poema. En cuanto á la traducción de D. Conrado Roure, muy
+estimable en algunos pasajes por su fidelidad, como está escrita en
+catalán, sólo pueden utilizarla los que conocen esta lengua.
+
+Para salvar tales inconvenientes se publica la presente versión
+literal en prosa castellana; y puedo asegurarte que si el buen deseo,
+el entusiasmo por la obra y la diligencia en el trabajo bastaran para
+tener acierto, no habría otra que fuese más perfecta y acabada.
+
+Dice Fr. Luis de León que «el que traslada ha de ser fiel y cabal, y si
+fuere posible, contar las palabras, para dar otras tantas, y no más, de
+la misma manera, cualidad, y condición y variedad de significaciones
+que las originales tienen, sin limitallas á su propio sonido y parecer,
+para que los que leyeren la traducción puedan entender la variedad
+toda de sentidos á que da ocasión el original si se leyese, y queden
+libres para escoger de ellos el que mejor les pareciere[11].» Tomando
+por regla tan autorizada opinión y poniendo en práctica los consejos
+que el malogrado helenista Dr. D. José Balari, eximio catedrático
+que fué de esta Universidad, nos daba á los que tuvimos la suerte de
+ser sus discípulos, he traducido el poema literalmente, sin quitar
+nada, ni siquiera un epíteto, y sin añadir más que lo necesario para
+la recta inteligencia de la frase, dada la distinta índole de la
+lengua castellana con respecto á la griega. No he vacilado en emplear
+una palabra anticuada cuando con ella se expresaba bien la idea del
+vocablo original: por ejemplo, la voz _escudado_, que tiene el mismo
+valor de la griega ἀσπιστής. Como no conozco ninguna dicción española
+que equivalga á εὐρύοπα[12], epíteto de Jove, en su acepción más
+probable de _el de amplia mirada_, me atreví á formar el compuesto
+_longividente_, cuya segunda parte se usa en las voces omnividente
+y providente, y la primera fué empleada por el clásico Jarque en la
+palabra longispicio[13]. Algo perplejo me tuvo el substantivo ἀριστεία
+(ΔΙΟΜΗΔΟΥΣ ΑΡΙΣΤΕΙΑ, ΑΓΑΜΕΜΝΟΝΟΣ ΑΡΙΣΤΕΙΑ, ΜΕΝΕΛΑΟΥ ΑΡΙΣΤΕΙΑ), que
+significa la acción de descollar en algo, es decir, de excederse
+un guerrero á sí mismo, sobresaliendo entre los combatientes y
+ejecutando sus mayores hazañas[14]; y por fin adopté el vocablo
+_principalía_, cuyo valor etimológico es casi igual al de la voz
+latina, _principatus_, con que suele traducirse. Mayor indecisión sentí
+al verter el epíteto εἰλίπους, que Homero da á los bueyes, y significa,
+según el _Lexicon_ de Ebeling, _qui pedes oblique et in orbem fere
+tortos profert_, y según el _Thesaurus_ lo explica, _flexipes, vertens
+et curvans pedes inter eundum_: confieso que no he sabido hallar una
+palabra castellana que equivalga á la griega; pero he preferido
+interpretarla imperfectamente con los vocablos _de tornátiles pies_,
+á seguir el ejemplo de muchos traductores que la han suprimido por
+completo.
+
+Ha servido de base para la traducción el texto griego de
+Dindorf-Hentze, publicado en la _Bibliotheca scriptorum Graecorum
+et Romanorum Teubneriana_[15]; que es, en mi humilde juicio, el
+más depurado de todos. Para precisar el significado de las voces
+griegas se han consultado varios diccionarios y especialmente el
+_Thesaurus_[16], el notable _Lexicon Homericum_, que editó Ebeling[17]
+y el importantísimo _Dictionnaire des antiquités grecques et romaines
+d’après les textes et les monuments_, que empezó á publicarse en
+1877 bajo la dirección de MM. Ch. Daremberg y Edm. Saglio, y alcanza
+actualmente hasta la letra S. Para la interpretación de algunos pasajes
+se han tenido á la vista las traducciones latinas de C. G. Heyne y de
+la edición de Firmin Didot; las españolas de Lebrija[18], García Malo,
+Gómez Hermosilla y Roure; la portuguesa de Manoel Odorico Mendes; las
+italianas de Monti y Cesarotti; las francesas de Mme. Dacier, Bitaubé,
+Giguet y Leprévost; la alemana de Voss; las inglesas de Lord Derby y
+del célebre Pope, y la que en griego moderno ha publicado Pal-le[19].
+Finalmente, para la fijación de regímenes dudosos, para determinar
+la acepción y uso de algunas palabras y frases, y para evitar, en
+lo posible, los barbarismos, hase acudido á la primera edición del
+_Diccionario de la Real Academia Española_, conocida con el nombre
+de _Diccionario de Autoridades_, y á las excelentes obras de Baralt,
+Cuervo, P. Mir, P. Nonell y Cortejón.
+
+Y ahora, lector benévolo, que ya sabes por qué y cómo se ha hecho la
+presente versión, perdona sus faltas, parando mientes en lo difícil que
+es trasladar al 
