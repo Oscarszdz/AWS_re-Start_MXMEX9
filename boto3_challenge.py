@@ -82,7 +82,8 @@ def download_book():
 upload_file('Homero_La_Iliada.txt', 'boto3challenge')
 
 # Reading and printing txt file on S3 bucket
-
+# def read_and_print_file()
+s3_file = s3://boto3challenge/Homero_La_Iliada.txt
 
 # aws s3 cp s3://boto3challenge/Homero_La_Iliada.txt - | head -100
 
