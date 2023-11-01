@@ -45,6 +45,8 @@ for bucket in response['Buckets']:
 create_bucket('boto3challenge', 'us-west-2')
 
 # Output the bucket names after bucket creation
+s3 = boto3.client('s3')
+response = s3.list_buckets()
 print('Existing buckets after creating:')
 for bucket in response['Buckets']:
     print(f'  {bucket["Name"]}')
@@ -82,8 +84,29 @@ def download_book():
 upload_file('Homero_La_Iliada.txt', 'boto3challenge')
 
 # Reading and printing txt file on S3 bucket
-# def read_and_print_file()
-s3_file = s3://boto3challenge/Homero_La_Iliada.txt
+def print_file():
+    response = s3.list_objects_v2(Bucket='boto3challenge')
+    for item in response['Contents']:
+        print(item['Key'])
+
+
+print_file()
+
+
+def read_file():
+    response = s3.get_object(
+        Bucket='boto3challenge',
+        Key='Homero_La_Iliada.txt'
+        )
+    contents = response['Body'].read()
+    print(f'Reading the file {response.Key}')
+    print(contents.decode("utf-8"))
+    
+
+read_file()
+
+
+# s3_file = s3://boto3challenge/Homero_La_Iliada.txt
 
 # aws s3 cp s3://boto3challenge/Homero_La_Iliada.txt - | head -100
 
@@ -91,4 +114,4 @@ s3_file = s3://boto3challenge/Homero_La_Iliada.txt
 # aws s3 rm s3://boto3challenge/Homero_La_Iliada.txt
 
 # Delete bucket
-# aws s3 rb boto3challenge
+# aws s3 rb s3://boto3challenge
