@@ -37,7 +37,7 @@ def encrypt_message(message:str, cipher_key:int, alphabet:str):
 def decrypt_message(message, cipher_key, alphabet):
     decrypt_key = -1 * int(cipher_key)
     return encrypt_message(message, decrypt_key, alphabet)
-    
+
 
 # Creating a main function
 def run_caesar_cipher_program():
@@ -45,14 +45,14 @@ def run_caesar_cipher_program():
     print(f'Alphabet: {my_alphabet}')
     my_alphabet2 = get_double_alphabet(my_alphabet)
     print(f'Alphabet2: {my_alphabet2}')
-    myMessage = get_message()
-    print(myMessage)
-    myCipherKey = get_cipher_key()
-    print(myCipherKey)
-    myEncryptedMessage = encrypt_message(myMessage, myCipherKey, my_alphabet2)
-    print(f'Encrypted Message: {myEncryptedMessage}')
-    myDecryptedMessage = decrypt_message(myEncryptedMessage, myCipherKey, my_alphabet2)
-    print(f'Decypted Message: {myDecryptedMessage}')
+    my_message = get_message()
+    print(my_message)
+    my_cipher_key = get_cipher_key()
+    print(my_cipher_key)
+    my_encrypted_message = encrypt_message(my_message, my_cipher_key, my_alphabet2)
+    print(f'Encrypted Message: {my_encrypted_message}')
+    my_decrypted_message = decrypt_message(my_encrypted_message, my_cipher_key, my_alphabet2)
+    print(f'Decypted Message: {my_decrypted_message}')
 
 
 run_caesar_cipher_program()
